@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtualenv
+envr/*
+
+#other directories
+share/*
+
+#files
+deploy_docker_commands
+
+
+#Git
+.git/*
+
+
+#model
+# ./text_prioritization/models/*
